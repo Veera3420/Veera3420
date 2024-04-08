@@ -8,5 +8,3 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/veera-ch-8438982a1) [Gmail](mailto:veerach736@gmail.com)
 
-⭐️ From [Veera3420](https://github.com/Veera3420)
-Inspired from [Veera Narayana](https://github.com/Veera3420)
